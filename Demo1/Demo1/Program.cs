@@ -8,6 +8,7 @@ namespace Demo1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Pull demo");
+            Console.WriteLine("Fetch and merge");
         }
     }
 }
